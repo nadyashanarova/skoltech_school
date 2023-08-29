@@ -1,1 +1,1 @@
-# skoltech_school
+Summer school "Smiles"
